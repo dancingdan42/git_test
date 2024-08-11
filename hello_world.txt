@@ -2,3 +2,5 @@ Adding new text to practice staging.
 adding again to test some guesses
 new text, new test 
 final test
+
+I'm adding more text here to test out multi line commit messages with a subject and body.
